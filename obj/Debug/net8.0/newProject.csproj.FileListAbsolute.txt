@@ -1,0 +1,14 @@
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/bin/Debug/net8.0/newProject
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/bin/Debug/net8.0/newProject.deps.json
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/bin/Debug/net8.0/newProject.runtimeconfig.json
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/bin/Debug/net8.0/newProject.dll
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/bin/Debug/net8.0/newProject.pdb
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.AssemblyInfoInputs.cache
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.AssemblyInfo.cs
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.csproj.CoreCompileInputs.cache
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.dll
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/refint/newProject.dll
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.pdb
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/newProject.genruntimeconfig.cache
+/Users/hersh/Desktop/Projects/Coding/C#/newProject/obj/Debug/net8.0/ref/newProject.dll
